@@ -43,17 +43,11 @@
 ---
 
 ### 📈 GitHub Stats & Activity
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashiq-rahman07&show_icons=true&locale=en&layout=compact" alt="Ashiqur Rahman's GitHub stats" />
-</p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashiq-rahman07&show_icons=true&locale=en&layout=compact" alt="ashiq-rahman07" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashiq-rahman07&show_icons=true&locale=en&layout=compact" alt="GitHub Streak" />
-</p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashiq-rahman07&show_icons=true&locale=en" alt="ashiq-rahman07" /></p>
 
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashiq-rahman07&show_icons=true&locale=en&layout=compact" />
-</p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashiq-rahman07&" alt="ashiq-rahman07" /></p>
 
 ---
 
