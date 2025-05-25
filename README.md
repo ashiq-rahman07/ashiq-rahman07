@@ -44,15 +44,15 @@
 
 ### 📈 GitHub Stats & Activity
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ashiqurrahman9796&show_icons=true&theme=radical" alt="Ashiqur Rahman's GitHub stats" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashiq-rahman07&show_icons=true&locale=en&layout=compact" alt="Ashiqur Rahman's GitHub stats" />
 </p>
 
 <p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com?user=ashiqurrahman9796&theme=radical" alt="GitHub Streak" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashiq-rahman07&show_icons=true&locale=en&layout=compact" alt="GitHub Streak" />
 </p>
 
 <p align="center">
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ashiqurrahman9796&theme=radical" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=ashiq-rahman07&show_icons=true&locale=en&layout=compact" />
 </p>
 
 ---
@@ -69,7 +69,7 @@
 ### 📬 Contact & Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/ashiqur-rahman-9796/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:ashiqur.rahman9796@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="mailto:web3.0.ashiq@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
   <a href="https://twitter.com/AshiqurRahman96" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
 </p>
 
