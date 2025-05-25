@@ -8,7 +8,7 @@
 <h1 align="center">Hi 👋, I'm Ashiqur Rahman</h1>
 
 <p align="center">
-  🚀 Fresh <strong>MERN Stack Developer</strong> from Bangladesh, passionate about turning ideas into reality through code.
+  🚀 I am <strong>MERN Stack Developer | Full Stack Developer</strong> from Bangladesh, passionate about turning ideas into reality through code.
 </p>
 
 <!-- Animated Typing Effect -->
@@ -20,8 +20,8 @@
 
 ### 🌟 Key Highlights
 - 💻 I build **modern web applications** with clean UI and efficient code.
-- 🧠 Always learning – currently exploring **TypeScript** and **Next.js**.
-- 💬 Open to collaboration on **open-source projects** and **freelance gigs**.
+- 🧠 Always learning – currently exploring **AI Iintregition**
+- 💬 Open to collaboration on **open-source projects**.
 - ✨ Love to **mentor beginners** and share knowledge.
 - 🌱 Fun Fact: I believe in **continuous improvement** – one project at a time!
 
@@ -35,10 +35,11 @@
 ---
 
 ### 🚀 Currently Learning
-- 🟦 **TypeScript**
-- 🔵 **Next.js & Server-Side Rendering**
+- 🟦 **Python**
+- 🟦 **Django**
+- 🔵 **Prisma & PostgresSql**
 - ⚡ **GraphQL** (on the horizon!)
-- 🎨 **UI/UX Design Best Practices**
+
 
 ---
 
@@ -54,24 +55,24 @@
 ### 🔥 Featured Projects
 | Project         | Description                      | Tech Stack                        |
 |------------------|----------------------------------|-----------------------------------|
-| **BasaFinder 🏡**| Smart Rental Housing Platform    | Next.js, Node.js, MongoDB, Tailwind CSS |
-| **VelocityVibe 🏍️**| Motorcycle e-commerce site     | React, Node.js, Tailwind CSS     |
-| **ClassicRider 🏍️**| Bike e-commerce website        | React, Express, MongoDB          |
+| **House Solution 🏡**| Smart Rental Housing Platform    | Next.js, Node.js,Express js, Mongoose, Tailwind CSS |
+| **ClassicRider 🏍️**| Bike Shop e-commerce website      | React, Node.js,Express Mongoose, Tailwind CSS     |
+
 
 ---
 
 ### 📬 Contact & Connect
 <p align="center">
-  <a href="https://www.linkedin.com/in/ashiqur-rahman-9796/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
+  <a href="https://www.linkedin.com/in/ashiq07/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:web3.0.ashiq@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  <a href="https://twitter.com/AshiqurRahman96" target="_blank"><img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" /></a>
+  
 </p>
 
 ---
 
 ### ⚡ Some Fun Stats
 - 🔥 Most used language: **JavaScript**
-- 🏆 Total commits this year: **[![GitHub commits](https://img.shields.io/github/commit-activity/y/ashiqurrahman9796/ashiqurrahman9796?style=flat-square&color=blue)](https://github.com/ashiqurrahman9796)**
+- 🏆 Total commits this year: **[![GitHub commits](https://img.shields.io/github/commit-activity/y/ashiq-rahman07/ashiq-rahman07?style=flat-square&color=blue)](https://github.com/ashiq-rahman07)**
 - 🌟 Current focus: **Full-stack web applications**
 
 ---
