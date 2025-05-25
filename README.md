@@ -1,17 +1,20 @@
 <!-- GitHub Profile README -->
 
-<!-- Animated GIF Banner -->
+<!-- 🌈 Deep Gradient Hero Banner (animated GIF, height adjusted) -->
 <p align="center">
-  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" alt="Animated Banner" />
+  <img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="100%" height="200px" alt="Animated Banner" style="border-radius: 8px;" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Ashiqur Rahman</h1>
+<h1 align="center" style="color: #ffffff; background: linear-gradient(45deg, #1e3c72, #2a5298); border-radius: 8px; padding: 10px;">
+  Hi 👋, I'm Ashiqur Rahman
+</h1>
 
-<p align="center">
-  🚀 I am <strong>MERN Stack Developer | Full Stack Developer</strong> from Bangladesh, passionate about turning ideas into reality through code.
+<p align="center" style="color: #ffffff; background: linear-gradient(45deg, #000000, #434343); border-radius: 8px; padding: 10px;">
+  🚀 I am <strong>MERN Stack Developer | Full Stack Developer</strong> from Bangladesh,<br>
+  passionate about turning ideas into reality through code.
 </p>
 
-<!-- Animated Typing Effect -->
+<!-- ✨ Animated Typing Effect -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&size=22&pause=1000&center=true&vCenter=true&width=450&lines=Building+Modern+Web+Apps;Learning+New+Tech;Let's+Code+Together!" />
 </p>
@@ -20,7 +23,7 @@
 
 ### 🌟 Key Highlights
 - 💻 I build **modern web applications** with clean UI and efficient code.
-- 🧠 Always learning – currently exploring **AI Iintregition**
+- 🧠 Always learning – currently exploring **AI Integration**.
 - 💬 Open to collaboration on **open-source projects**.
 - ✨ Love to **mentor beginners** and share knowledge.
 - 🌱 Fun Fact: I believe in **continuous improvement** – one project at a time!
@@ -37,27 +40,41 @@
 ### 🚀 Currently Learning
 - 🟦 **Python**
 - 🟦 **Django**
-- 🔵 **Prisma & PostgresSql**
+- 🔵 **Prisma & PostgresSQL**
 - ⚡ **GraphQL** (on the horizon!)
-
 
 ---
 
 ### 📈 GitHub Stats & Activity
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=ashiq-rahman07&show_icons=true&locale=en&layout=compact" alt="ashiq-rahman07" /></p>
+<div align="center">
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=ashiq-rahman07&show_icons=true&locale=en" alt="ashiq-rahman07" /></p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ashiq-rahman07&layout=compact&theme=radical&hide_border=true" height="150px" />
+<img src="https://github-readme-stats.vercel.app/api?username=ashiq-rahman07&show_icons=true&theme=radical&hide_border=true" height="150px" />
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=ashiq-rahman07&theme=radical&hide_border=true" height="150px" />
 
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ashiq-rahman07&" alt="ashiq-rahman07" /></p>
+</div>
+
+---
+
+### 🏆 GitHub Trophies
+<p align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=ashiq-rahman07&theme=radical&margin-w=10&no-frame=true" alt="Trophies" />
+</p>
+
+---
+
+### 🎯 3D Contribution Calendar
+<p align="center">
+  <img src="https://ghchart.rshah.org/ashiq-rahman07" alt="3D Contribution Calendar" />
+</p>
 
 ---
 
 ### 🔥 Featured Projects
-| Project         | Description                      | Tech Stack                        |
-|------------------|----------------------------------|-----------------------------------|
-| **House Solution 🏡**| Smart Rental Housing Platform    | Next.js, Node.js,Express js, Mongoose, Tailwind CSS |
-| **ClassicRider 🏍️**| Bike Shop e-commerce website      | React, Node.js,Express Mongoose, Tailwind CSS     |
-
+| Project         | Description                      | Tech Stack                                 |
+|------------------|----------------------------------|--------------------------------------------|
+| **House Solution 🏡**| Smart Rental Housing Platform    | Next.js, Node.js, Express.js, Mongoose, Tailwind CSS |
+| **ClassicRider 🏍️**| Bike Shop e-commerce website      | React, Node.js, Express, Mongoose, Tailwind CSS |
 
 ---
 
@@ -65,7 +82,6 @@
 <p align="center">
   <a href="https://www.linkedin.com/in/ashiq07/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
   <a href="mailto:web3.0.ashiq@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
-  
 </p>
 
 ---
@@ -84,6 +100,13 @@
 
 ---
 
+<!-- 🔥 Visitor Counter -->
+<p align="center">
+  <img src="https://profile-counter.glitch.me/ashiq-rahman07/count.svg" alt="Visitors" />
+</p>
+
+<!-- 🌈 Gradient Footer with Animation -->
 <p align="center">
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&height=100&section=footer&animation=twinkling" />
 </p>
+
