@@ -81,7 +81,7 @@
 ### 📬 Contact & Connect
 <p align="center">
   <a href="https://www.linkedin.com/in/ashiq07/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-blue?style=for-the-badge&logo=linkedin" /></a>
-  <a href="mailto:web3.0.ashiq@gmail.com" target="_blank"><img src="https://img.shields.io/badge/Gmail-red?style=for-the-badge&logo=gmail&logoColor=white" /></a>
+  <a href="https://drive.google.com/file/d/1dxH5Bfm4qfxc70R3gDhzytzHtl2ToJ3I/view" target="_blank"><img src="https://img.shields.io/badge/My-Resume?style=for-the-badge&logo=gmail&logoColor=white" /></a>
 </p>
 
 ---
